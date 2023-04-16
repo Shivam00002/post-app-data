@@ -2,17 +2,6 @@
   "posts": 
     [
       {
-        "id": 1,
-        "title": "typicode",
-        "discription": "This is our first blog post hope you like it",
-        "imageUrl": "https://ca.slack-edge.com/T04R62JBWR2-U04RBS5V4F7-bd2cdd5c152d-512",
-        "comments": [
-          {
-            "comment": "Nice post"
-          }
-        ]
-      },
-      {
         "title": "10 Proven Ways to Earn Money Online",
         "discription": "Choose a niche: Choose a niche that you are passionate about or have expertise in. This will allow you to create content that resonates with your audience and establishes you as an authority in your field.  Build an audience: Building an audience is key to making money online. Use social media platforms and other online communities to grow your audience and engage with them.  Monetize your website or blog: If you have a website or blog, you can monetize it by placing ads, sponsored posts, and affiliate links.  Sell digital products: Digital products such as eBooks, courses, and printables are great ways to make money online. They require upfront work but can generate passive income over time.  Offer services: If you have skills in areas like writing, graphic design, or programming, you can offer your services online and make money.  Use online marketplaces: Online marketplaces like Etsy, Amazon, and eBay allow you to sell physical products online. You can also sell digital products on these platforms.  Create a YouTube channel: YouTube is a great platform for making money online. You can monetize your videos through ads, sponsorships, and merchandise sales.  Start a podcast: Podcasts are a growing medium and offer opportunities for monetization through sponsorships and advertising.  Become an affiliate marketer: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this through your website, blog, or social media platforms.  Participate in paid surveys: While not a significant source of income, participating in paid surveys is an easy way to earn some extra cash online. There are several websites that pay for completing surveys.",
         "img": "https://images.unsplash.com/photo-1518183214770-9cffbec72538?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZWFybmluZyUyMG1vbmV5fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
