@@ -1,123 +1,131 @@
-[
-  {
-    "id": 1,
-    "title": "typicode",
-    "discription": "This is our first blog post hope you like it",
-    "imageUrl": "https://ca.slack-edge.com/T04R62JBWR2-U04RBS5V4F7-bd2cdd5c152d-512",
-    "comments": [
+{
+  "posts": [
+    [
       {
-        "comment": "Nice post"
+        "id": 1,
+        "title": "typicode",
+        "discription": "This is our first blog post hope you like it",
+        "imageUrl": "https://ca.slack-edge.com/T04R62JBWR2-U04RBS5V4F7-bd2cdd5c152d-512",
+        "comments": [
+          {
+            "comment": "Nice post"
+          }
+        ]
+      },
+      {
+        "title": "10 Proven Ways to Earn Money Online",
+        "discription": "Choose a niche: Choose a niche that you are passionate about or have expertise in. This will allow you to create content that resonates with your audience and establishes you as an authority in your field.  Build an audience: Building an audience is key to making money online. Use social media platforms and other online communities to grow your audience and engage with them.  Monetize your website or blog: If you have a website or blog, you can monetize it by placing ads, sponsored posts, and affiliate links.  Sell digital products: Digital products such as eBooks, courses, and printables are great ways to make money online. They require upfront work but can generate passive income over time.  Offer services: If you have skills in areas like writing, graphic design, or programming, you can offer your services online and make money.  Use online marketplaces: Online marketplaces like Etsy, Amazon, and eBay allow you to sell physical products online. You can also sell digital products on these platforms.  Create a YouTube channel: YouTube is a great platform for making money online. You can monetize your videos through ads, sponsorships, and merchandise sales.  Start a podcast: Podcasts are a growing medium and offer opportunities for monetization through sponsorships and advertising.  Become an affiliate marketer: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this through your website, blog, or social media platforms.  Participate in paid surveys: While not a significant source of income, participating in paid surveys is an easy way to earn some extra cash online. There are several websites that pay for completing surveys.",
+        "img": "https://images.unsplash.com/photo-1518183214770-9cffbec72538?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZWFybmluZyUyMG1vbmV5fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "title": "Maximizing Your Earnings: Online Money Making Tips",
+        "discription": "Freelancing: Freelancing involves providing services to clients on a project basis. Popular freelancing services include writing, graphic design, web development, programming, social media management, and virtual assistance. You can sign up on freelancing platforms like Upwork, Fiverr, and Freelancer to find clients and earn money.  Selling products: You can sell products online through platforms like Amazon, eBay, Etsy, or your own website. You can sell physical products, digital products like ebooks, software, or courses, or even dropship products from a third-party supplier.  Online tutoring or teaching: If you have expertise in a particular subject, you can offer online tutoring or teaching services. You can use platforms like Udemy or Teachable to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  Online surveys and market research: Participating in online surveys and market research studies is an easy way to earn some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash. Some market research companies also pay for product testing or focus groups.",
+        "img": "https://thumbs.dreamstime.com/b/happy-woman-earn-money-online-26108577.jpg",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 3
+      },
+      {
+        "title": "The Ultimate Guide to Making Money Online",
+        "discription": "Freelancing: Freelancing involves providing services to clients on a project basis. Popular freelancing services include writing, graphic design, web development, programming, social media management, and virtual assistance. You can sign up on freelancing platforms like Upwork, Fiverr, and Freelancer to find clients and earn money.  Blogging: Starting a blog can be a great way to make money online. You can monetize your blog through affiliate marketing, advertising, sponsored posts, and selling digital products or courses.  Online selling: You can sell products online through platforms like Amazon, eBay, Etsy, or your own website. You can sell physical products, digital products like ebooks, software, or courses, or even dropship products from a third-party supplier.  Online tutoring or teaching: If you have expertise in a particular subject, you can offer online tutoring or teaching services. You can use platforms like Udemy or Teachable to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  YouTube channel: You can create a YouTube channel and monetize it through ads, sponsorships, and merchandise sales. You can make videos on various topics, such as tutorials, reviews, vlogs, or comedy skits.",
+        "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/16/w1200X800/How_to_Make.jpg",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 4
+      },
+      {
+        "title": "Discover the Secrets of Earning Money Online",
+        "discription": "YouTube channel: You can create a YouTube channel and monetize it through ads, sponsorships, and merchandise sales. You can make videos on various topics, such as tutorials, reviews, vlogs, or comedy skits.  Online surveys and market research: Participating in online surveys and market research studies is an easy way to earn some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash. Some market research companies also pay for product testing or focus groups.  Stock trading and investing: You can make money online through stock trading and investing. Platforms like Robinhood, E*TRADE, and TD Ameritrade allow you to buy and sell stocks, bonds, and mutual funds.  Cryptocurrency trading: Cryptocurrency trading involves buying and selling digital currencies like Bitcoin, Ethereum, and Litecoin. You can use platforms like Coinbase, Binance, or Kraken to trade cryptocurrencies.  Online gaming and esports: If you are a skilled gamer, you can make money through online gaming and esports. You can participate in online tournaments or stream your gameplay on platforms like Twitch or YouTube and earn money through sponsorships, donations, and ad revenue.  Making money online requires effort and dedication, but it can be a lucrative and flexible way to earn an income. Choose a method that fits your skills, interests, and goals, and stay committed to it to see results.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvPWjszySxvQZ7jFAKkihz_LQkx_YwJI08SSukhfHytRxkwHA32faxaHmUDSP1Xnu9cs&usqp=CAU",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 5
+      },
+      {
+        "title": "Online Money Making: Opportunities That Really Pay",
+        "discription": "There are many opportunities to make money online, but not all of them are legitimate or profitable. Here are some online money-making opportunities that are known to really pay:  Freelancing: Freelancing is a popular way to make money online by offering services to clients on a project basis. You can find clients on platforms like Upwork, Fiverr, or Freelancer and provide services like writing, graphic design, web development, programming, social media management, or virtual assistance.  Online surveys: Participating in online surveys is an easy and legitimate way to make some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash.  Transcription: Transcription involves transcribing audio or video files into text. You can find transcription jobs on platforms like Rev, TranscribeMe, or GoTranscript and earn money based on the length and complexity of the files.  Virtual tutoring or teaching: If you have expertise in a particular subject, you can offer virtual tutoring or teaching services. You can use platforms like VIPKid, Teachable, or Udemy to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.",
+        "img": "https://cdn.pixabay.com/photo/2020/09/15/22/30/man-5574872__340.jpg",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 6
+      },
+      {
+        "title": "The Top 5 Ways to Earn Money Online",
+        "discription": "Virtual tutoring or teaching: If you have expertise in a particular subject, you can offer virtual tutoring or teaching services. You can use platforms like VIPKid, Teachable, or Udemy to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  Online selling: You can sell products online through platforms like Amazon, eBay, or Etsy. You can sell physical products, digital products like ebooks or software, or even dropship products from a third-party supplier.  Stock trading and investing: You can make money online through stock trading and investing. Platforms like Robinhood, E*TRADE, and TD Ameritrade allow you to buy and sell stocks, bonds, and mutual funds.  Online gaming and esports: If you are a skilled gamer, you can make money through online gaming and esports. You can participate in online tournaments or stream your gameplay on platforms like Twitch or YouTube and earn money through sponsorships, donations, and ad revenue.",
+        "img": "https://printify.com/wp-content/uploads/2022/11/30-Ways-to-Make-Money-Without-a-Job.jpg",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 7
+      },
+      {
+        "title": "Making a Living Online: A Step-by-Step Guide",
+        "discription": "Making a living online is possible, but it requires planning, effort, and dedication. Here is a step-by-step guide on how to make a living online:  Determine your skills and interests: Start by identifying your skills, expertise, and interests. This will help you choose the best online money-making opportunities that fit your abilities and goals.  Research online money-making opportunities: Once you know your skills and interests, research the different online money-making opportunities available. Consider factors such as the earning potential, time commitment, and required skills or equipment.  Choose your niche: Based on your skills and interests, choose a niche that you are passionate about and that has a demand in the market. This will help you stand out from the competition and attract potential clients or customers.  Create a portfolio or website: Depending on the type of online money-making opportunity you choose, you may need to create a portfolio or website to showcase your skills and services. This will help potential clients or customers to find you and learn more about your offerings.  Build your online presence: To succeed in making a living online, you need to build a strong online presence. This includes creating social media profiles, networking with industry professionals, and engaging with your audience through blog posts or videos.",
+        "img": "https://media.istockphoto.com/id/1154923171/photo/e-commerce-online-business-profit-e-business.jpg?s=612x612&w=0&k=20&c=AAlQN0wuTI53nkrtXTB4qcRW1dWxgJE64c3GIpVHiZU=",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 8
+      },
+      {
+        "title": "How to Monetize Your Skills and Earn Money Online",
+        "discription": "Monetizing your skills and earning money online can be done through various platforms and methods. Here are some ways to monetize your skills and earn money online:  Freelancing: Freelancing is a popular way to monetize your skills and earn money online. You can offer your services as a writer, designer, developer, marketer, or any other skill you have. You can find clients on freelancing platforms like Upwork, Fiverr, or Freelancer.  Online courses: If you have expertise in a particular skill or field, you can create and sell online courses. Platforms like Udemy, Teachable, or Coursera allow you to create and sell online courses and earn money based on the number of students enrolled.  Consulting: If you have experience and knowledge in a particular industry, you can offer consulting services online. You can use platforms like Clarity.fm or Savvy to offer consulting services and earn money based on the time you spend on consultations.  Online coaching: If you have coaching skills, you can offer online coaching services. Platforms like Coach.me or BetterUp allow you to offer coaching services and earn money based on the number of clients you coach.  Content creation: If you have skills in creating content like writing, photography, or video editing, you can monetize your skills by creating and selling content. You can use platforms like Shutterstock or iStock to sell your photos, or you can use YouTube or TikTok to monetize your videos.",
+        "img": "https://media.istockphoto.com/id/668087702/photo/professional-smart-young-woman-using-a-laptop-building-online-business.jpg?s=612x612&w=0&k=20&c=aZ4yDNsG5kPaWQAWVaMl6gyrUOPuU86-5x2P4x7H7MM=",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 9
+      },
+      {
+        "title": "Making Money Online: Is it Right for You?",
+        "discription": "Making money online can be a viable option for anyone who has the right mindset, skills, and dedication. However, it may not be right for everyone. Here are some factors to consider when deciding if making money online is right for you:  Your skills and interests: To be successful in making money online, you need to have skills and interests that are in demand in the online market. Consider what skills you have and how they can be monetized online.  Your mindset: Making money online requires discipline, self-motivation, and a willingness to learn and adapt. You need to be able to work independently and manage your time effectively.  Your financial goals: Making money online can provide a flexible income stream, but it may not be a steady source of income. Consider your financial goals and whether making money online can help you achieve them.  Your resources: Making money online may require resources such as a computer, internet connection, or software. Consider what resources you have and whether you need to invest in additional resources to start making money online.  Your risk tolerance: Making money online can be risky, and there is no guarantee of success. Consider your risk tolerance and whether you are willing to take risks to make money online.  Ultimately, making money online can be a viable option for anyone who has the right skills, mindset, and dedication. It is important to do your research and understand the risks and opportunities before committing to making money online.",
+        "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_476196983_93462.jpg",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 10
+      },
+      {
+        "title": "Maximize Your Income with Online Money Making Ideas",
+        "discription": "Here are some online money making ideas that can help you maximize your income:  Sell products online: You can sell physical or digital products online through platforms like Amazon, eBay, Etsy, or your own website.  Participate in affiliate marketing: You can promote products or services and earn a commission on sales through affiliate marketing programs like Amazon Associates or ShareASale.  Offer freelance services: You can offer your skills and services online through freelancing platforms like Upwork or Fiverr. This can include services like writing, designing, programming, or virtual assistance.  Create and sell online courses: You can create and sell online courses on platforms like Udemy or Teachable. This can include courses on a variety of topics like marketing, coding, or photography.  Offer coaching or consulting services: If you have expertise in a particular field, you can offer coaching or consulting services online through platforms like Clarity.fm or Savvy.",
+        "img": "https://media.gettyimages.com/id/907538098/photo/financial-goals-saving-money.jpg?s=612x612&w=gi&k=20&c=RhUHFDbNwA_IbnWaOh6TOsf5S0HdLLR5ATkwhfrsR2I=",
+        "comments": [
+          {
+            "comment": "Nice Post"
+          }
+        ],
+        "id": 11
       }
     ]
-  },
-  {
-    "title": "10 Proven Ways to Earn Money Online",
-    "discription": "Choose a niche: Choose a niche that you are passionate about or have expertise in. This will allow you to create content that resonates with your audience and establishes you as an authority in your field.  Build an audience: Building an audience is key to making money online. Use social media platforms and other online communities to grow your audience and engage with them.  Monetize your website or blog: If you have a website or blog, you can monetize it by placing ads, sponsored posts, and affiliate links.  Sell digital products: Digital products such as eBooks, courses, and printables are great ways to make money online. They require upfront work but can generate passive income over time.  Offer services: If you have skills in areas like writing, graphic design, or programming, you can offer your services online and make money.  Use online marketplaces: Online marketplaces like Etsy, Amazon, and eBay allow you to sell physical products online. You can also sell digital products on these platforms.  Create a YouTube channel: YouTube is a great platform for making money online. You can monetize your videos through ads, sponsorships, and merchandise sales.  Start a podcast: Podcasts are a growing medium and offer opportunities for monetization through sponsorships and advertising.  Become an affiliate marketer: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this through your website, blog, or social media platforms.  Participate in paid surveys: While not a significant source of income, participating in paid surveys is an easy way to earn some extra cash online. There are several websites that pay for completing surveys.",
-    "img": "https://images.unsplash.com/photo-1518183214770-9cffbec72538?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZWFybmluZyUyMG1vbmV5fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 2
-  },
-  {
-    "title": "Maximizing Your Earnings: Online Money Making Tips",
-    "discription": "Freelancing: Freelancing involves providing services to clients on a project basis. Popular freelancing services include writing, graphic design, web development, programming, social media management, and virtual assistance. You can sign up on freelancing platforms like Upwork, Fiverr, and Freelancer to find clients and earn money.  Selling products: You can sell products online through platforms like Amazon, eBay, Etsy, or your own website. You can sell physical products, digital products like ebooks, software, or courses, or even dropship products from a third-party supplier.  Online tutoring or teaching: If you have expertise in a particular subject, you can offer online tutoring or teaching services. You can use platforms like Udemy or Teachable to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  Online surveys and market research: Participating in online surveys and market research studies is an easy way to earn some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash. Some market research companies also pay for product testing or focus groups.",
-    "img": "https://thumbs.dreamstime.com/b/happy-woman-earn-money-online-26108577.jpg",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 3
-  },
-  {
-    "title": "The Ultimate Guide to Making Money Online",
-    "discription": "Freelancing: Freelancing involves providing services to clients on a project basis. Popular freelancing services include writing, graphic design, web development, programming, social media management, and virtual assistance. You can sign up on freelancing platforms like Upwork, Fiverr, and Freelancer to find clients and earn money.  Blogging: Starting a blog can be a great way to make money online. You can monetize your blog through affiliate marketing, advertising, sponsored posts, and selling digital products or courses.  Online selling: You can sell products online through platforms like Amazon, eBay, Etsy, or your own website. You can sell physical products, digital products like ebooks, software, or courses, or even dropship products from a third-party supplier.  Online tutoring or teaching: If you have expertise in a particular subject, you can offer online tutoring or teaching services. You can use platforms like Udemy or Teachable to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  YouTube channel: You can create a YouTube channel and monetize it through ads, sponsorships, and merchandise sales. You can make videos on various topics, such as tutorials, reviews, vlogs, or comedy skits.",
-    "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/16/w1200X800/How_to_Make.jpg",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 4
-  },
-  {
-    "title": "Discover the Secrets of Earning Money Online",
-    "discription": "YouTube channel: You can create a YouTube channel and monetize it through ads, sponsorships, and merchandise sales. You can make videos on various topics, such as tutorials, reviews, vlogs, or comedy skits.  Online surveys and market research: Participating in online surveys and market research studies is an easy way to earn some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash. Some market research companies also pay for product testing or focus groups.  Stock trading and investing: You can make money online through stock trading and investing. Platforms like Robinhood, E*TRADE, and TD Ameritrade allow you to buy and sell stocks, bonds, and mutual funds.  Cryptocurrency trading: Cryptocurrency trading involves buying and selling digital currencies like Bitcoin, Ethereum, and Litecoin. You can use platforms like Coinbase, Binance, or Kraken to trade cryptocurrencies.  Online gaming and esports: If you are a skilled gamer, you can make money through online gaming and esports. You can participate in online tournaments or stream your gameplay on platforms like Twitch or YouTube and earn money through sponsorships, donations, and ad revenue.  Making money online requires effort and dedication, but it can be a lucrative and flexible way to earn an income. Choose a method that fits your skills, interests, and goals, and stay committed to it to see results.",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvPWjszySxvQZ7jFAKkihz_LQkx_YwJI08SSukhfHytRxkwHA32faxaHmUDSP1Xnu9cs&usqp=CAU",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 5
-  },
-  {
-    "title": "Online Money Making: Opportunities That Really Pay",
-    "discription": "There are many opportunities to make money online, but not all of them are legitimate or profitable. Here are some online money-making opportunities that are known to really pay:  Freelancing: Freelancing is a popular way to make money online by offering services to clients on a project basis. You can find clients on platforms like Upwork, Fiverr, or Freelancer and provide services like writing, graphic design, web development, programming, social media management, or virtual assistance.  Online surveys: Participating in online surveys is an easy and legitimate way to make some extra cash. You can sign up on websites like Swagbucks, Survey Junkie, or Vindale Research to participate in surveys and earn rewards or cash.  Transcription: Transcription involves transcribing audio or video files into text. You can find transcription jobs on platforms like Rev, TranscribeMe, or GoTranscript and earn money based on the length and complexity of the files.  Virtual tutoring or teaching: If you have expertise in a particular subject, you can offer virtual tutoring or teaching services. You can use platforms like VIPKid, Teachable, or Udemy to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.",
-    "img": "https://cdn.pixabay.com/photo/2020/09/15/22/30/man-5574872__340.jpg",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 6
-  },
-  {
-    "title": "The Top 5 Ways to Earn Money Online",
-    "discription": "Virtual tutoring or teaching: If you have expertise in a particular subject, you can offer virtual tutoring or teaching services. You can use platforms like VIPKid, Teachable, or Udemy to create and sell online courses, or you can offer personalized tutoring services through platforms like TutorMe, Skooli, or Chegg.  Affiliate marketing: Affiliate marketing involves promoting other people's products and earning a commission on sales. You can do this by writing product reviews or comparisons on your website, blog, or social media, and including affiliate links.  Online selling: You can sell products online through platforms like Amazon, eBay, or Etsy. You can sell physical products, digital products like ebooks or software, or even dropship products from a third-party supplier.  Stock trading and investing: You can make money online through stock trading and investing. Platforms like Robinhood, E*TRADE, and TD Ameritrade allow you to buy and sell stocks, bonds, and mutual funds.  Online gaming and esports: If you are a skilled gamer, you can make money through online gaming and esports. You can participate in online tournaments or stream your gameplay on platforms like Twitch or YouTube and earn money through sponsorships, donations, and ad revenue.",
-    "img": "https://printify.com/wp-content/uploads/2022/11/30-Ways-to-Make-Money-Without-a-Job.jpg",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 7
-  },
-  {
-    "title": "Making a Living Online: A Step-by-Step Guide",
-    "discription": "Making a living online is possible, but it requires planning, effort, and dedication. Here is a step-by-step guide on how to make a living online:  Determine your skills and interests: Start by identifying your skills, expertise, and interests. This will help you choose the best online money-making opportunities that fit your abilities and goals.  Research online money-making opportunities: Once you know your skills and interests, research the different online money-making opportunities available. Consider factors such as the earning potential, time commitment, and required skills or equipment.  Choose your niche: Based on your skills and interests, choose a niche that you are passionate about and that has a demand in the market. This will help you stand out from the competition and attract potential clients or customers.  Create a portfolio or website: Depending on the type of online money-making opportunity you choose, you may need to create a portfolio or website to showcase your skills and services. This will help potential clients or customers to find you and learn more about your offerings.  Build your online presence: To succeed in making a living online, you need to build a strong online presence. This includes creating social media profiles, networking with industry professionals, and engaging with your audience through blog posts or videos.",
-    "img": "https://media.istockphoto.com/id/1154923171/photo/e-commerce-online-business-profit-e-business.jpg?s=612x612&w=0&k=20&c=AAlQN0wuTI53nkrtXTB4qcRW1dWxgJE64c3GIpVHiZU=",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 8
-  },
-  {
-    "title": "How to Monetize Your Skills and Earn Money Online",
-    "discription": "Monetizing your skills and earning money online can be done through various platforms and methods. Here are some ways to monetize your skills and earn money online:  Freelancing: Freelancing is a popular way to monetize your skills and earn money online. You can offer your services as a writer, designer, developer, marketer, or any other skill you have. You can find clients on freelancing platforms like Upwork, Fiverr, or Freelancer.  Online courses: If you have expertise in a particular skill or field, you can create and sell online courses. Platforms like Udemy, Teachable, or Coursera allow you to create and sell online courses and earn money based on the number of students enrolled.  Consulting: If you have experience and knowledge in a particular industry, you can offer consulting services online. You can use platforms like Clarity.fm or Savvy to offer consulting services and earn money based on the time you spend on consultations.  Online coaching: If you have coaching skills, you can offer online coaching services. Platforms like Coach.me or BetterUp allow you to offer coaching services and earn money based on the number of clients you coach.  Content creation: If you have skills in creating content like writing, photography, or video editing, you can monetize your skills by creating and selling content. You can use platforms like Shutterstock or iStock to sell your photos, or you can use YouTube or TikTok to monetize your videos.",
-    "img": "https://media.istockphoto.com/id/668087702/photo/professional-smart-young-woman-using-a-laptop-building-online-business.jpg?s=612x612&w=0&k=20&c=aZ4yDNsG5kPaWQAWVaMl6gyrUOPuU86-5x2P4x7H7MM=",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 9
-  },
-  {
-    "title": "Making Money Online: Is it Right for You?",
-    "discription": "Making money online can be a viable option for anyone who has the right mindset, skills, and dedication. However, it may not be right for everyone. Here are some factors to consider when deciding if making money online is right for you:  Your skills and interests: To be successful in making money online, you need to have skills and interests that are in demand in the online market. Consider what skills you have and how they can be monetized online.  Your mindset: Making money online requires discipline, self-motivation, and a willingness to learn and adapt. You need to be able to work independently and manage your time effectively.  Your financial goals: Making money online can provide a flexible income stream, but it may not be a steady source of income. Consider your financial goals and whether making money online can help you achieve them.  Your resources: Making money online may require resources such as a computer, internet connection, or software. Consider what resources you have and whether you need to invest in additional resources to start making money online.  Your risk tolerance: Making money online can be risky, and there is no guarantee of success. Consider your risk tolerance and whether you are willing to take risks to make money online.  Ultimately, making money online can be a viable option for anyone who has the right skills, mindset, and dedication. It is important to do your research and understand the risks and opportunities before committing to making money online.",
-    "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_476196983_93462.jpg",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 10
-  },
-  {
-    "title": "Maximize Your Income with Online Money Making Ideas",
-    "discription": "Here are some online money making ideas that can help you maximize your income:  Sell products online: You can sell physical or digital products online through platforms like Amazon, eBay, Etsy, or your own website.  Participate in affiliate marketing: You can promote products or services and earn a commission on sales through affiliate marketing programs like Amazon Associates or ShareASale.  Offer freelance services: You can offer your skills and services online through freelancing platforms like Upwork or Fiverr. This can include services like writing, designing, programming, or virtual assistance.  Create and sell online courses: You can create and sell online courses on platforms like Udemy or Teachable. This can include courses on a variety of topics like marketing, coding, or photography.  Offer coaching or consulting services: If you have expertise in a particular field, you can offer coaching or consulting services online through platforms like Clarity.fm or Savvy.",
-    "img": "https://media.gettyimages.com/id/907538098/photo/financial-goals-saving-money.jpg?s=612x612&w=gi&k=20&c=RhUHFDbNwA_IbnWaOh6TOsf5S0HdLLR5ATkwhfrsR2I=",
-    "comments": [
-      {
-        "comment": "Nice Post"
-      }
-    ],
-    "id": 11
-  }
-]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
