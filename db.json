@@ -116,5 +116,5 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "users": { "id" : 1 , "name": "shivam dubey" , "email" : "dubey02shiv@gmail.com" , "password" : "shivam@12345" }
 }
